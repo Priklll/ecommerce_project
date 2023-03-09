@@ -5,22 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a17377db-b50a-4c9d-a386-1871f923affb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/font/mark/Mark-Pro.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config_subset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/version" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/version" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ecommerce_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ecommerce_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/presentation/bloc/bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/helper/constant.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/presentation/bloc/event.dart" beforeDir="false" afterPath="$PROJECT_DIR$/presentation/pages/home_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/presentation/bloc/state.dart" beforeDir="false" afterPath="$PROJECT_DIR$/presentation/widgets/tab_bar.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/presentation/pages/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/presentation/pages/home_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/presentation/widgets/tab_bar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/presentation/widgets/tab_bar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/end_point.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/service/end_point.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/network.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/service/network.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/service/repository.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +47,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
       <recent name="$PROJECT_DIR$/font/mark" />
       <recent name="$PROJECT_DIR$/assets" />
     </key>
